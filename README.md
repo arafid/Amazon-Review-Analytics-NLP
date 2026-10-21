@@ -1,6 +1,6 @@
 # Amazon Review Analytics | Python, NLP & Business Intelligence
 
-A portfolio-ready Python and NLP project that converts unstructured Amazon customer-review text into sentiment metrics, complaint themes, product-level insights, and decision-support outputs.
+A Python and NLP project that converts unstructured Amazon customer-review text into sentiment metrics, complaint themes, product-level insights, and decision-support outputs.
 
 ## Project Overview
 
@@ -221,6 +221,6 @@ Developed by **Afnan Rafid, Christy Johnson, Tiffany Nguyen, Grecia Lopez Gonzal
 
 ---
 
-### Portfolio Note
+### Repository Note
 
-The `results/` folder preserves the metrics and outputs reported in the submitted project. The repository is organized as a technical portfolio version of the original academic work, with the code, sample, outputs, and recruiter-facing project summary separated for easier review.
+The `results/` folder preserves the metrics and outputs reported in the submitted project. The repository reorganizes the original academic work so the code, sample, outputs, and technical case study are easy to review independently.
